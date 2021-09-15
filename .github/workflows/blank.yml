@@ -1,4 +1,4 @@
-name: RDP-V9
+name: RDP-V7
 
 on: workflow_dispatch
 
